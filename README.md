@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
+## Array
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/gagandkaur/Leetcode_practice/tree/master/0414-third-maximum-number) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/gagandkaur/Leetcode_practice/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
