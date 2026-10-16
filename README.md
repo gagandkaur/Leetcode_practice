@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/gagandkaur/Leetcode_practice/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/gagandkaur/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gagandkaur/Leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
