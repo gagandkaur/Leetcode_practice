@@ -52,6 +52,7 @@
 | [0414-third-maximum-number](https://github.com/gagandkaur/Leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/gagandkaur/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gagandkaur/Leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/gagandkaur/Leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gagandkaur/Leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/gagandkaur/Leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
