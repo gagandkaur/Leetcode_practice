@@ -69,6 +69,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/gagandkaur/Leetcode_practice/tree/master/0172-factorial-trailing-zeroes) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gagandkaur/Leetcode_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Binary Search
 |  |
