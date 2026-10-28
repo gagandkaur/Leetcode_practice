@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/gagandkaur/Leetcode_practice/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/gagandkaur/Leetcode_practice/tree/master/0202-happy-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gagandkaur/Leetcode_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Binary Search
 |  |
@@ -83,4 +84,16 @@
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gagandkaur/Leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/gagandkaur/Leetcode_practice/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/gagandkaur/Leetcode_practice/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/gagandkaur/Leetcode_practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
