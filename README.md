@@ -59,6 +59,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/gagandkaur/Leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gagandkaur/Leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/gagandkaur/Leetcode_practice/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gagandkaur/Leetcode_practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gagandkaur/Leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/gagandkaur/Leetcode_practice/tree/master/0504-base-7) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gagandkaur/Leetcode_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gagandkaur/Leetcode_practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
