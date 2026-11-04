@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/gagandkaur/Leetcode_practice/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gagandkaur/Leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gagandkaur/Leetcode_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gagandkaur/Leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/gagandkaur/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/gagandkaur/Leetcode_practice/tree/master/0202-happy-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gagandkaur/Leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gagandkaur/Leetcode_practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
