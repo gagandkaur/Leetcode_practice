@@ -60,6 +60,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gagandkaur/Leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/gagandkaur/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gagandkaur/Leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gagandkaur/Leetcode_practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gagandkaur/Leetcode_practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gagandkaur/Leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/gagandkaur/Leetcode_practice/tree/master/3665-twisted-mirror-path-count) |
