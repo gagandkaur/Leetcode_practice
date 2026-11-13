@@ -9,6 +9,7 @@
 | [0504-base-7](https://github.com/gagandkaur/Leetcode_practice/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/gagandkaur/Leetcode_practice/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/gagandkaur/Leetcode_practice/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/gagandkaur/Leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gagandkaur/Leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/gagandkaur/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/gagandkaur/Leetcode_practice/tree/master/0202-happy-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gagandkaur/Leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/gagandkaur/Leetcode_practice/tree/master/0771-jewels-and-stones) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gagandkaur/Leetcode_practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
