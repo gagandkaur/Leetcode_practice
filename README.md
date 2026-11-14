@@ -66,6 +66,7 @@
 | [0485-max-consecutive-ones](https://github.com/gagandkaur/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gagandkaur/Leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gagandkaur/Leetcode_practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gagandkaur/Leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gagandkaur/Leetcode_practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gagandkaur/Leetcode_practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/gagandkaur/Leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -144,6 +145,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/gagandkaur/Leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gagandkaur/Leetcode_practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gagandkaur/Leetcode_practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Segment Tree
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0767-reorganize-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/gagandkaur/Leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
