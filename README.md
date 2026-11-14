@@ -9,6 +9,7 @@
 | [0504-base-7](https://github.com/gagandkaur/Leetcode_practice/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/gagandkaur/Leetcode_practice/tree/master/0709-to-lower-case) |
+| [0767-reorganize-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/gagandkaur/Leetcode_practice/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/gagandkaur/Leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gagandkaur/Leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
+| [0767-reorganize-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gagandkaur/Leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gagandkaur/Leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -74,6 +76,7 @@
 | ------- |
 | [0414-third-maximum-number](https://github.com/gagandkaur/Leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gagandkaur/Leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0767-reorganize-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0767-reorganize-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gagandkaur/Leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Breadth-First Search
 |  |
@@ -102,6 +105,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0767-reorganize-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gagandkaur/Leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gagandkaur/Leetcode_practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/gagandkaur/Leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -114,6 +118,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/gagandkaur/Leetcode_practice/tree/master/0202-happy-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gagandkaur/Leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0767-reorganize-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/gagandkaur/Leetcode_practice/tree/master/0771-jewels-and-stones) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gagandkaur/Leetcode_practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
@@ -157,4 +162,8 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gagandkaur/Leetcode_practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
