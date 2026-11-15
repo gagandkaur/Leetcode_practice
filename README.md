@@ -21,6 +21,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/gagandkaur/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gagandkaur/Leetcode_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gagandkaur/Leetcode_practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/gagandkaur/Leetcode_practice/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
@@ -64,6 +65,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gagandkaur/Leetcode_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gagandkaur/Leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/gagandkaur/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gagandkaur/Leetcode_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gagandkaur/Leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gagandkaur/Leetcode_practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gagandkaur/Leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
@@ -95,6 +97,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gagandkaur/Leetcode_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gagandkaur/Leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/gagandkaur/Leetcode_practice/tree/master/0504-base-7) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gagandkaur/Leetcode_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/gagandkaur/Leetcode_practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gagandkaur/Leetcode_practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gagandkaur/Leetcode_practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -171,5 +174,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gagandkaur/Leetcode_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gagandkaur/Leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
