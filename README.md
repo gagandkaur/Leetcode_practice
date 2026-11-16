@@ -15,6 +15,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gagandkaur/Leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/gagandkaur/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/gagandkaur/Leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
@@ -176,4 +177,8 @@
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gagandkaur/Leetcode_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gagandkaur/Leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
