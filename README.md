@@ -16,6 +16,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/gagandkaur/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gagandkaur/Leetcode_practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/gagandkaur/Leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
@@ -23,6 +24,7 @@
 | [0022-generate-parentheses](https://github.com/gagandkaur/Leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gagandkaur/Leetcode_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gagandkaur/Leetcode_practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gagandkaur/Leetcode_practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/gagandkaur/Leetcode_practice/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/gagandkaur/Leetcode_practice/tree/master/0202-happy-number) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gagandkaur/Leetcode_practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
