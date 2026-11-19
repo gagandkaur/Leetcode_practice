@@ -60,6 +60,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gagandkaur/Leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gagandkaur/Leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gagandkaur/Leetcode_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/gagandkaur/Leetcode_practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Array
 |  |
@@ -71,6 +72,7 @@
 | [0485-max-consecutive-ones](https://github.com/gagandkaur/Leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/gagandkaur/Leetcode_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gagandkaur/Leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gagandkaur/Leetcode_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gagandkaur/Leetcode_practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gagandkaur/Leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gagandkaur/Leetcode_practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -85,6 +87,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gagandkaur/Leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0767-reorganize-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0767-reorganize-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/gagandkaur/Leetcode_practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/gagandkaur/Leetcode_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
