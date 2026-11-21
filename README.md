@@ -18,6 +18,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/gagandkaur/Leetcode_practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/gagandkaur/Leetcode_practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gagandkaur/Leetcode_practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/gagandkaur/Leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
@@ -76,6 +77,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/gagandkaur/Leetcode_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/gagandkaur/Leetcode_practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/gagandkaur/Leetcode_practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gagandkaur/Leetcode_practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/gagandkaur/Leetcode_practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gagandkaur/Leetcode_practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gagandkaur/Leetcode_practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -134,6 +136,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gagandkaur/Leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0767-reorganize-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/gagandkaur/Leetcode_practice/tree/master/0771-jewels-and-stones) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gagandkaur/Leetcode_practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/gagandkaur/Leetcode_practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
@@ -191,4 +194,12 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gagandkaur/Leetcode_practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gagandkaur/Leetcode_practice/tree/master/3331-find-subtree-sizes-after-changes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/gagandkaur/Leetcode_practice/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
